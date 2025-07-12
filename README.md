@@ -4,7 +4,7 @@
 [![Slack Bot](https://img.shields.io/badge/Bot-Slack-4A154B?logo=slack)](https://api.slack.com/bot-users)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 <!-- [![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/go-slack-file-bot/ci.yml?branch=main)](https://github.com/yourusername/go-slack-file-bot/actions) -->
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/go-slack-file-bot)](https://goreportcard.com/report/github.com/yourusername/go-slack-file-bot)
+<!-- [![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/go-slack-file-bot)](https://goreportcard.com/report/github.com/yourusername/go-slack-file-bot) -->
 <!-- [![Issues](https://img.shields.io/github/issues/yourusername/go-slack-file-bot)](https://github.com/yourusername/go-slack-file-bot/issues) -->
 <!-- [![Last Commit](https://img.shields.io/github/last-commit/yourusername/go-slack-file-bot)](https://github.com/yourusername/go-slack-file-bot/commits/main) -->
 
